@@ -11,7 +11,7 @@ function checkEOL {
       fi
   done
   if [ $result -eq 1 ]; then
-    false
+    true
   fi
 }
 
