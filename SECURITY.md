@@ -19,7 +19,7 @@ Use this section to tell people how to report a vulnerability.
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
-# Please report any security questions to ron47ron1@gmail.com will get back to you in a timely manner with resolution of findings depending on severity of security vulnerability some questions will not be answered due to security policy. If this is a vulnerability that needs addressing immediately please PM me at my Internet security https:\\GitHub.com/ron813c
+# Please report any security questions to ron47ron1@gmail.com will get back to you in a timely manner with resolution of findings depending on severity of security vulnerability some questions will not be answered due to security policy. If this is a vulnerability that needs addressing immediately please PM me at my Internet security https://GitHub.com/ron813c
 Thanks for your support 
 
 Ronald Chapman GitHub organizations
