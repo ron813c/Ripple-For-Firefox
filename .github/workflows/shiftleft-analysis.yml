@@ -21,8 +21,7 @@ jobs:
     - name: Perform ShiftLeft Scan
       uses: ShiftLeftSecurity/scan-action@master
       env:
-        WORKSPACE: "Use Control + Space to trigger autocomplete in most situations"
-			QSCAN_AUTO_BUILD: true
+        WORKSPACE: "Use Control + Space to trigger autocomplete in most situations SC6AN_AUTO_BUILD: true
       with:- name Setup Node
   uses:actions/setup-node@v1
   with#
